@@ -10,9 +10,9 @@ Then we will create an Attendance project that will use a webcam to detect faces
   
   
 # tools
-  **dilp
-  **firebase
-  **opencv-python
-  **face-regontion
-  ** numby
-  **cmake
+  *dilp
+  *firebase
+  *opencv-python
+  *face-regontion
+  *numby
+  *cmake
